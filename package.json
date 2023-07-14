@@ -1,0 +1,23 @@
+{
+  "name": "remove-white",
+  "version": "1.0.0",
+  "description": "Typescript program to check if given image is empty/blank, if not remove unwanted whitespace around the edges of the image, with NodeJS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.3.1",
+    "@types/sharp": "^0.32.0",
+    "canvas": "^2.11.2",
+    "sharp": "^0.32.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^4.4.3"
+  }
+}
